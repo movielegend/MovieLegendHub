@@ -1,1 +1,368 @@
+{
+  "data": {
+    "notification": {
+      "note": " SẢN PHẨM QUÝ KHÁCH ĐƯỢC TRẢI NGHIỆM DÙNG THỬ TRONG 15 NGÀY ĐẦU TIÊN KHÔNG ƯNG HOÀN TIỀN , HỖ TRỢ LÊN ĐỜI , BẢO HÀNH 12 THÁNG LỖI 1 ĐỔI 1   ",
+      "photo": ""
+    },
+
+    "tivi": {
+      "apps": [
+         {
+          "name": "Truyền Hình_iMedia",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/logo1.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/imedia.TV.apk",
+          "note": "Ứng dụng xem truyền hình miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
+          ]
+         },
+         {
+          "name": "Truyền Hình TV365",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv365.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Xem.TV365.apk",
+          "note": "Ứng dụng xem truyền hình miễn phí.",
+          "preview": [
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv365.jpg"
+          ]
+         },
+        {
+          "name": "Truyền Hình VIETPLAY",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoviet.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/VietPlay.TV_2.3.apk",
+          "note": "Ứng dụng xem truyền hình miễn phí.",
+          "preview": [
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoviet.jpg"
+          ]
+         },{
+          "name": "Truyền Hình Only TV",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoonlytv.jpg",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/jr6eu9.1.apk",
+          "note": "Ứng dụng xem truyền hình miễn phí.",
+          "preview": [
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoonlytv.jpg"
+          ]
+         },
+         {
+          "name": "Truyền hình_DLtivi",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/logo2.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/dltv.apk",
+          "note": "Ứng dụng xem TV miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
+          ]
+        },
+        {
+          "name": "Truyền Hình TV",
+          "versionName": "1.1.7",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/TV-4.00.apk",
+          "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
+          "preview": [
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv.jpg"
+          ]
+        },
+        {
+          "name": "GetOut",
+          "versionName": "3.2.0",
+          "type": "Bóng đá",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logogetout.jpg",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/getout.apk",
+          "note": "Xem truyền hình, bóng đá miễn phí.",
+          "preview": [
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logogetout.jpg"
+          ]
+        },
+        {
+          "name": "VieON",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vieon.apk",
+          "note": "Ứng dụng VieON xem phim, truyền hình.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh1.png"
+          ]
+        },
+        {
+          "name": "Galaxy",
+          "versionName": "3.10.13",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/logo.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Galaxy.Play.TV_3.10.13_APKPure.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/anh.png"
+          ]
+        },
+        {
+          "name": "FPTPlay",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo1.png",
+          "linkDownload":"https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/base.1.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"
+          ]
+        },
+        {
+          "name": "bilibili",
+          "versionName": "3.12.1",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/RoGaiTri_v1.1.5.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/anh.png"
+          ]
+        },
+        {
+          "name": "iQIYI",
+          "versionName": "8.8.1",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo1.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/iqy.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"
+          ]
+        },
+        {
+          "name": "TV360",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/tv360.2.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png"
+          ]
+        },
+        {
+          "name": "VTVGO",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/VTVgo_TV_v12.2.11.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"
+          ]
+        }
+      ]
+    },
+    
+    "entertainment": {
+      "apps": [
+          {
+          "name": "Netflix",
+          "versionName": "9.53.1",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Netflix-9.53.1.build.9.64045.1.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+          },
+         {
+          "name": "Netflix",
+          "versionName": "9.53.0",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Netflix-9.53.0.build.8.64029.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+        },
+        {
+          "name": "Netflix",
+          "versionName": "9.50.2",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Netflix-9.50.2.build.8.63993.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+        },
+        {
+          "name": "Cloudsream",
+          "versionName": "2.4.4",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logocloudstream.jpg",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/PhimHayVer244.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logocloudstream.jpg"]
+        },
+        {
+          "name": "Cô be Phim",
+          "versionName": "1.0.1",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo.rophim.jpg",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/cobephimtv.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo.rophim.jpg"]
+        },
+         {
+          "name": "Phim 4K",
+          "versionName": "2.5.8",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Phim4K-v2.5.8.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
+        },
+        {
+          "name": "Chợ Phim",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logochophim.jpg",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/chophim1.0.3.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logochophim.jpg"]
+        },
+        {
+          "name": "Sài Gòn Phim",
+          "versionName": "1.0.0",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logosaigon.jpg",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/SaiGonPhim.1.0.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logosaigon.jpg"]
+        },
+        {
+          "name": "Youtube",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/youtube1/base.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube1/anh1.png"]
+        },
+        {
+          "name": "Youtube_chặnQC",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/logo1.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/SmartTube_beta_30.90_armeabi-v7a.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
+        },
+        {
+          "name": "TizenYoutube",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/logo.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/tizentube.1.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TizenYoutube/anh.png"]
+        },
+        {
+          "name": "Spotify",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/logo1.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/spotify.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"]
+        },
+        {
+          "name": "Soundcloud",
+          "versionName": "06.21",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/logo.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Soundcloud_2024.06.21_ATV.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/anh.png"]
+        }
+      ]
+     },
+        
+    "utilities": {
+      "apps": [
+        {
+          "name": "Truyền Màn Hình",
+          "versionName": "5.0.6",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/logo.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Air.Receiver.5.0.6.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/anh.png"]
+        },
+        {
+          "name": "AirScreen",
+          "versionName": "2.14.1",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/logo.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/AirScreen.v2.14.1.Mod.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
+        },
+        {
+          "name": "file màn hình",
+          "versionName": "phiên bản mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/logo1.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/file.man.hinh.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/anh1.png"]
+        },
+        {
+          "name": "MStore",
+          "versionName": "2.0",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/logo1.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Mstore_2.0.0.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"]
+        }
+      ]
+    },
+
+    "childre": {
+      "apps": [
+        {
+          "name": "Google voice",
+          "versionName": "1.1",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Google voice/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Google.Kaniss.2.2.0.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Google voice/anh.png"]
+        },
+        {
+          "name": "Fix_CậpNhậtThờiGian",
+          "versionName": "Mới Nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Fix_CậpNhậtThờiGian/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/com-cgutman-androidremotedebugger-16-62721314-9ebfb5f7a50f1713f1a835afa49995d2.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Fix_CậpNhậtThờiGian/anh.png"]
+        },
+        {
+          "name": "Giọng Nói KiKi",
+          "versionName": "24.1.1",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Giọng Nói KiKi/logo.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Kiki.24.01.01.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Giọng Nói KiKi/anh.png"]
+        },
+        {
+          "name": "BrowseHere",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoBrowse.jpg",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/com.tcl.browser.2.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoBrowse.jpg"]
+        },
+         {
+          "name": "Zank Remot",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoremote.jpg",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/ATVbox-Remote-20.2.1.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoremote.jpg"]
+        },
+        {
+          "name": "Tik Tok Life",
+          "versionName": "mới nhất",
+          "type": "giải trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotiktoklife.jpg",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/tiktoklife.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotiktoklife.jpg"]
+        },
+         {
+          "name": "X Plore",
+          "versionName": "mới nhất",
+          "type": "giải trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoxplore.jpg",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/xplore.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoxplore.jpg"]
+        }
+      ]
+    }
+  }
+}
 
