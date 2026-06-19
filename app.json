@@ -18,17 +18,6 @@
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
           ]
          },
-         {
-          "name": "Truyền Hình TV365",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv365.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Xem.TV365.apk",
-          "note": "Ứng dụng xem truyền hình miễn phí.",
-          "preview": [
-            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv365.jpg"
-          ]
-         },
         {
           "name": "Truyền Hình VIETPLAY",
           "versionName": "mới nhất",
